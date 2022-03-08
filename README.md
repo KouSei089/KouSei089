@@ -16,7 +16,7 @@
 # Personally developed web service
 [Mikke（ミッケ）習慣ジャーナリング](https://a-mikke.com)
 『書くこと（ジャーナリング）』をデジタルで実現し，感情の分析や習慣化しやすいようにサポートするサービスです。
-![facebook_cover_photo_2](https://user-images.githubusercontent.com/77420123/156925044-28afc804-387d-4ef0-8580-2ecc1db46d05.png)
+<img src="https://user-images.githubusercontent.com/77420123/156925044-28afc804-387d-4ef0-8580-2ecc1db46d05.png" width="120px">
 <!--
 **KouSei089/KouSei089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
