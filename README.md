@@ -23,6 +23,9 @@
 ### Framework
 ![rails-original-wordmark (1)](https://user-images.githubusercontent.com/77420123/157225509-e6277626-16fb-4afa-a832-dd32b7bdbe9f.svg)
 
+![ruby-original](https://user-images.githubusercontent.com/77420123/157225601-d7fdc37c-a29f-4f4e-94e6-271b30d46111.svg)
+<img src="https://user-images.githubusercontent.com/77420123/157225601-d7fdc37c-a29f-4f4e-94e6-271b30d46111.svg" width="24px">
+
 Here are some ideas to get you started:
 
 『書くこと（ジャーナリング）』をデジタルで実現し，感情の分析や習慣化しやすいようにサポートするサービスです。
