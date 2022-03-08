@@ -10,7 +10,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KouSei089&theme=default)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KouSei089&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouSei089&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KouSei089&show_icons=true&theme=graywhite)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouSei089&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KouSei089/KouSei089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
