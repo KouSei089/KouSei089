@@ -13,16 +13,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouSei089&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-### Personally developed web service
+## Personally developed web service
 [Mikke（ミッケ）習慣ジャーナリング](https://a-mikke.com)
 
 『書くこと（ジャーナリング）』をデジタルで実現し，感情の分析や習慣化しやすいようにサポートするサービスです。
-<img src="https://user-images.githubusercontent.com/77420123/156925044-28afc804-387d-4ef0-8580-2ecc1db46d05.png" width="240px">
-<!--
-**KouSei089/KouSei089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/77420123/156925044-28afc804-387d-4ef0-8580-2ecc1db46d05.png" width="480px">
+
+## Skills
+### Framework
+![rails-original-wordmark (1)](https://user-images.githubusercontent.com/77420123/157225509-e6277626-16fb-4afa-a832-dd32b7bdbe9f.svg)
 
 Here are some ideas to get you started:
 
+『書くこと（ジャーナリング）』をデジタルで実現し，感情の分析や習慣化しやすいようにサポートするサービスです。
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
