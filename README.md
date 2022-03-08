@@ -13,10 +13,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouSei089&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-# Personally developed web service
+### Personally developed web service
 [Mikke（ミッケ）習慣ジャーナリング](https://a-mikke.com)
+
 『書くこと（ジャーナリング）』をデジタルで実現し，感情の分析や習慣化しやすいようにサポートするサービスです。
-<img src="https://user-images.githubusercontent.com/77420123/156925044-28afc804-387d-4ef0-8580-2ecc1db46d05.png" width="120px">
+<img src="https://user-images.githubusercontent.com/77420123/156925044-28afc804-387d-4ef0-8580-2ecc1db46d05.png" width="240px">
 <!--
 **KouSei089/KouSei089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
