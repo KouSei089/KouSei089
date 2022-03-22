@@ -9,10 +9,11 @@
   [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Izumi_Haruya/contributions.svg)](http://qiita.com/Izumi_Haruya)
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KouSei089&theme=vue)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ## 個人開発
 [Mikke（ミッケ）習慣ジャーナリング](https://a-mikke.com)
@@ -21,3 +22,4 @@
 
 [![Image from Gyazo](https://i.gyazo.com/e12194d6bb1bebb0c294fe2cc9a264f6.gif)](https://gyazo.com/e12194d6bb1bebb0c294fe2cc9a264f6)
 
+[Mikke Githubリポジトリ](https://github.com/KouSei089/Mikke)
