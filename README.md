@@ -24,7 +24,7 @@
 [Mikke Githubリポジトリ](https://github.com/KouSei089/Mikke)
 
 
-### [Izumi Haruya website](https://github.com/KouSei089/portfolio-izuha)
+### [Izumi Haruya website](https://kousei089.github.io/portfolio-izuha/)
 
 <img src="https://i.gyazo.com/a76fea5bd192b63f96ddbac47be4590c.gif" width="300px">
 
