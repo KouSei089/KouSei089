@@ -9,36 +9,24 @@
   [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Izumi_Haruya/contributions.svg)](http://qiita.com/Izumi_Haruya)
 </p>
 
+<img width="1106" alt="スクリーンショット 2022-06-03 12 15 13" src="https://user-images.githubusercontent.com/77420123/171779620-9486c7d5-0cd1-480f-b229-9e8f935a6002.png">
 
+### Biographical Summary
 
-[![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Worked for a major apparel brand for 5 years. Through self-study and reading of programming, he learned about problem solving through technology and decided to become an engineer, and enrolled in the programming school RUNTEQ in April 2021. He then developed and released "Mikke Custom Journaling" on his own. It achieved more than 1500 PV / 200 UUs per month. Currently, he is creating an app using React/TypeScript. As for personal activities, I am managing an online community "DIALogue".
 
-# I'm Izumi Haruya
-📘 Zenn https://zenn.dev/kousei_089
+- [Izumi Haruya website](https://kousei089.github.io/portfolio-izuha/) - This is a website about Haruya Izumi's career to date, portfolio and daily output.
 
-📗 note https://note.com/izuha0
+---
 
-<img src="https://user-images.githubusercontent.com/77420123/164490202-03cf80e1-2a27-4ae0-b20a-dd352acdce49.svg" width="15px"> Twitter https://twitter.com/izuha0
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-📝 Wantedly https://www.wantedly.com/id/haruya_izumi/
+### Outputs
 
+- [Zenn](https://zenn.dev/kousei_089) - At Zenn, we focus on programming outings, We mainly use scraps of books as output.
 
-# 🛠 Personal Development
-### 🧘‍♂️ Mikke（ミッケ）習慣ジャーナリング
-📱 https://a-mikke.com
+- [note](https://note.com/izuha0) - I write in "note" to share the flow of my thoughts, I hope you will think, "Oh, I know what you mean.
 
-『書くこと（ジャーナリング）』をデジタルで実現し，感情の分析や習慣化しやすいようにサポートするサービスです。
+- [Twitter](https://twitter.com/izuha0) - On Twitter, I output about my daily studies, hobbies, and areas of interest. I also host a study group once a week, so please feel free to DM me if you are interested.
 
-<img src="https://i.gyazo.com/e12194d6bb1bebb0c294fe2cc9a264f6.gif" width="300px">
-
-📦 [Mikke Githubリポジトリ](https://github.com/KouSei089/Mikke)
-
-
-### ✨ Izumi Haruya website
-🖥 https://kousei089.github.io/portfolio-izuha/
-
-<img src="https://i.gyazo.com/a76fea5bd192b63f96ddbac47be4590c.gif" width="300px">
-
-📦 [Izumi Haruya website Githubリポジトリ](https://github.com/KouSei089/portfolio-izuha)
+- [DIALogue](https://zenn.dev/kousei_089/scraps/d3afca9650230a) - In the online community "DIALouge", we are trying to think about a single question, moving back and forth between the concrete and the abstract. We also offer programming and engineering related studies. We meet every Sunday for 4~5 hours.
