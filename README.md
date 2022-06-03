@@ -11,7 +11,7 @@
 
 <img width="1106" alt="スクリーンショット 2022-06-03 12 15 13" src="https://user-images.githubusercontent.com/77420123/171779620-9486c7d5-0cd1-480f-b229-9e8f935a6002.png">
 
-### Biographical Summary
+### Career Summary
 
 Worked for a major apparel brand for 5 years. Through self-study and reading of programming, he learned about problem solving through technology and decided to become an engineer, and enrolled in the programming school RUNTEQ in April 2021. He then developed and released "Mikke Custom Journaling" on his own. It achieved more than 1500 PV / 200 UUs per month. Currently, he is creating an app using React/TypeScript. As for personal activities, I am managing an online community "DIALogue".
 
