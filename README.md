@@ -19,7 +19,7 @@ Worked for a major apparel brand for 5 years. Through self-study and reading of 
 
 ---
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/KouSei089/<KouSei089/master/img/snake.svg) 
 
 ### Outputs
 
