@@ -1,18 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=160&section=header&text=Izumi%20Haruya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%2F%20Next.js&descSize=18&descAlignY=60&descColor=ccbbff" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=6E40C9&center=true&vCenter=true&width=500&lines=Building+products+that+matter+%F0%9F%9A%80;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans+SC&weight=300&size=14&duration=4000&pause=2000&color=333333&center=true&vCenter=true&width=500&lines=Engineer+at+Hotel+Ento%2C+Ama+Town+%E2%80%94+Oki+Islands%2C+Shimane;Apparel+%E2%86%92+Engineer+%E2%86%92+Island" alt="Typing SVG" />
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/@izuha0-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/izuha0)
+[![Portfolio](https://img.shields.io/badge/watashi-000000?style=flat-square&logo=github&logoColor=white)](https://kousei089.github.io/watashi/)
 [![note](https://img.shields.io/badge/note-41C9B4?style=flat-square&logo=note&logoColor=white)](https://note.com/izuha0)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/kousei_089)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/Izumi_Haruya)
-![Views](https://komarev.com/ghpvc/?username=KouSei089&style=flat-square&color=blueviolet&label=views)
+[![Twitter](https://img.shields.io/badge/@izuha0-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/izuha0)
+![Views](https://komarev.com/ghpvc/?username=KouSei089&style=flat-square&color=888888&label=views)
 
 </div>
+
+<br/>
+
+> ずれながら、主題を果たす。
+
+島根県・海士町のホテル「Entô」でプロダクト開発をしています。  
+アパレル、エンジニア、プロジェクトマネージャーを経て、島へ。
 
 <br/>
 
@@ -20,7 +25,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,bash,html,css,tailwind,prisma,postgres,supabase,vercel,notion,git,github,vscode&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,tailwind,html,css,prisma,postgres,supabase,vercel,notion,git,github,vscode,bash&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
@@ -30,21 +35,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KouSei089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KouSei089&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=KouSei089&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KouSei089&theme=tokyonight&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KouSei089&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KouSei089&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
