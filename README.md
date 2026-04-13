@@ -10,6 +10,17 @@
 [![Twitter](https://img.shields.io/badge/@izuha0-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/izuha0)
 ![Views](https://komarev.com/ghpvc/?username=KouSei089&style=flat-square&color=888888&label=views)
 
-![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-3d-contrib/profile-night-rainbow.svg)
+<br/>
+
+*ずれながら、主題を果たす。*
+
+<br/>
+<br/>
+
+`TypeScript` &nbsp;`Next.js` &nbsp;`React` &nbsp;`Python` &nbsp;`Vercel`
+
+<br/>
+
+![pacman](https://raw.githubusercontent.com/KouSei089/KouSei089/main/dist/pacman-contribution-graph-dark.svg)
 
 </div>
