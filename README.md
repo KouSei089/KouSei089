@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=3500&pause=1500&color=555555&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;TypeScript+%2F+Next.js+%2F+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=3500&pause=2000&color=555555&center=true&vCenter=true&width=480&lines=Apparel+%E2%86%92+Engineer+%E2%86%92+Island;Ento+Front+And+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -15,12 +15,12 @@
 *ずれながら、主題を果たす。*
 
 <br/>
-
-Apparel &nbsp;&rarr;&nbsp; Engineer &nbsp;&rarr;&nbsp; Island
-
-<br/>
 <br/>
 
 `TypeScript` &nbsp;`Next.js` &nbsp;`React` &nbsp;`Python` &nbsp;`Vercel`
+
+<br/>
+
+![](https://raw.githubusercontent.com/KouSei089/KouSei089/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
