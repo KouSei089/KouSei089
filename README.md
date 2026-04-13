@@ -12,15 +12,6 @@
 
 <br/>
 
-*ずれながら、主題を果たす。*
-
-<br/>
-<br/>
-
-`TypeScript` &nbsp;`Next.js` &nbsp;`React` &nbsp;`Python` &nbsp;`Vercel`
-
-<br/>
-
 ![pacman](https://raw.githubusercontent.com/KouSei089/KouSei089/main/dist/pacman-contribution-graph-dark.svg)
 
 </div>
