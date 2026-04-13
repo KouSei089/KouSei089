@@ -16,20 +16,11 @@
 
 <br/>
 
-## Projects
-
-| | |
-|---|---|
-| 🏨 **[ento-core](https://github.com/KouSei089/ento-core)** | Hotel operations platform |
-| 💰 **[kurasel](https://github.com/KouSei089/kurasel)** | Personal finance & settlement app |
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,python,vercel,notion&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,bash,html,css,tailwind,prisma,postgres,supabase,vercel,notion,git,github,vscode&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
@@ -39,7 +30,20 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=KouSei089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KouSei089&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=KouSei089&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KouSei089&theme=tokyonight&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KouSei089&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
