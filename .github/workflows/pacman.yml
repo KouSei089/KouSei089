@@ -1,0 +1,21 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: KouSei089
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          message: "Update pacman contribution graph"
